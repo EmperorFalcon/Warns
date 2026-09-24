@@ -3,7 +3,7 @@
     {
       "name": "Spam",
       "messages": [
-        "Khoshtip spam nade . chat_violation"
+        "لطفاً از اسپم و فلود خودداری فرمایید . chat_violation"
       ]
     },
     {
@@ -27,7 +27,7 @@
     {
       "name": "Staff Insult",
       "messages": [
-        "لطفاً از توهین به تیم مدیریتی {Staff} شدیداً خودداری کنید . #chat_violation"
+        "لطفاً از توهین به تیم مدیریتی {Staff} شدیداً خودداری کنید . chat_violation"
       ]
     },
     {

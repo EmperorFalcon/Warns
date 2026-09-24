@@ -3,13 +3,13 @@
     {
       "name": "Spam",
       "messages": [
-        "nouch nocuh spam?? . chat_violation"
+        "spam nadid . chat_violation"
       ]
     },
     {
       "name": "Minor",
       "messages": [
-        "لطفاً از استفاده از کلمات و لحن نامناسب خودداری فرمایید . chat_violation5"
+        "لطفاً از استفاده از کلمات و لحن نامناسب خودداری فرمایید . chat_violation9"
       ]
     },
     {

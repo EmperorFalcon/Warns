@@ -1,1 +1,84 @@
-
+{
+  "reasons": [
+    {
+      "name": "Spam",
+      "messages": [
+        "لطفاً از اسپم و فلود خودداری فرمایید . chat_violation"
+      ]
+    },
+    {
+      "name": "Minor",
+      "messages": [
+        "لطفاً از استفاده از کلمات و لحن نامناسب خودداری فرمایید . chat_violation"
+      ]
+    },
+    {
+      "name": "Toxicity",
+      "messages": [
+        "لطفاً از استفاده از لحنی که باعث ناراحتی دیگران میشود خودداری فرمایید . chat_violation"
+      ]
+    },
+    {
+      "name": "Major",
+      "messages": [
+        "لطفاً از استفاده از کلمات، لحن نامناسب و توهین به بقیه پلیرها خودداری فرمایید . chat_violation"
+      ]
+    },
+    {
+      "name": "Staff Insult",
+      "messages": [
+        "لطفاً از توهین به تیم مدیریتی {Staff} شدیداً خودداری کنید . #chat_violation"
+      ]
+    },
+    {
+      "name": "Staff Stall",
+      "messages": [
+        "لطفاً از منشن دادن بیدلیل و پشت سر هم {Staff} خودداری فرمایید #raftar_namonaseb",
+        "لطفاً از پرسیدن سؤالهای نامربوط از تیم مدیریتی خودداری فرمایید #raftar_namonaseb",
+        "لطفاً از درخواست غیرمنطقی و نامربوط از تیم مدیریتی خودداری کنید #raftar_namonaseb"
+      ]
+    },
+    {
+      "name": "IRL Trade",
+      "messages": [
+        "لطفاً از فروش آیتم با پول واقعی خودداری فرمایید. #account_violation"
+      ]
+    },
+    {
+      "name": "Advertisement",
+      "messages": [
+        "لطفاً از تبلیغات و استفاده از نام سایر سرورها خودداری فرمایید #advertising"
+      ]
+    },
+    {
+      "name": "Unfair Mods",
+      "messages": [
+        "لطفاً از استفاده از مودهای ناعادلانه و برتری ناعادلانه خودداری فرمایید، در صورت تکرار برخورد میشود #raftar_namonaseb"
+      ]
+    },
+    {
+      "name": "Bug Exploit",
+      "messages": [
+        "لطفاً از استفاده از باگ و برتری ناعادلانه خودداری فرمایید، در صورت تکرار برخورد میشود #raftar_namonaseb"
+      ]
+    },
+    {
+      "name": "Harassment",
+      "messages": [
+        "لطفاً از اذیت کردن و آزار دادن بازیکنان دیگر شدیداً خودداری فرمایید #chat_violation"
+      ]
+    },
+    {
+      "name": "Team Up",
+      "messages": [
+        "لطفاً از تیم آپ کردن با دیگر پلیرها در گیممود مورد نظر خودداری فرمایید #raftar_namonaseb"
+      ]
+    },
+    {
+      "name": "Kill Farm",
+      "messages": [
+        "لطفاً از کیل فارم مداوم دیگران شدیداً خودداری فرمایید #raftar_namonaseb"
+      ]
+    }
+  ]
+}
